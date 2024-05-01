@@ -1,0 +1,28 @@
+/*hoja de estilo en cascada*/
+/*este es el selector de elemento*/
+button{
+    color: blueviolet;
+}
+/*el selector de clase*/
+.especial{ color: aqua;
+}
+
+.button{
+    color: blue;
+}
+
+.buttton{
+    color: chartreuse;
+}
+/*selestor universal*/
+*{
+    color: black;
+}
+/*selector universal*/
+*{
+    color: black;
+}
+/*selector universal*/
+*{
+
+}
